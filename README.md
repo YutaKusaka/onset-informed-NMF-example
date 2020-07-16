@@ -9,3 +9,7 @@ This notebook shows the inferred variables and recovered spectrograms of each ex
 ## wav/
 
 This directory contains the input signal, recovered signals (target and accompaniments) and its ground truth signals for each song.
+
++ *_mix.wav ... input signal
++ *_(target, accomp).wav ... ground truth signals of target instrument and accompaniments
++ *_est_(target, accomp).wav ... estimated signals of target instrument and accompaniments
